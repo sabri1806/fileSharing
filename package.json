@@ -1,0 +1,17 @@
+{
+  "name": "File Sharing",
+  "version": "1.0.0",
+  "description": "uploading and downloading files",
+  
+  "dependencies": {
+    "jade": "*",
+    "express": "~3.x.x"
+  },
+   "scripts":{
+    "start": "node app.js"
+  },
+  "author": {
+    "name": "Sabrina Lucero",
+    "email": "sabrinita185@gmail.com",
+  }
+}

@@ -1,0 +1,15 @@
+extends layout
+title files
+block content
+  div.container
+    div
+    legend Downloads 
+        ul
+          - each result in results
+            li
+              div.row
+                div.col-md-6
+                  label=result
+                div.col-md-6
+                  input(type='submit', value='Download',id=result,class='google btn btn-primary colr')
+  div.footer

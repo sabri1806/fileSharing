@@ -1,0 +1,27 @@
+.container{
+	background-color: #ffffff;
+}
+body{
+	padding-top: 80px;
+	background-color:  #2196f3;
+	font-family: Arvo,Georgia,"Times New Roman",Times,serif;
+	font-weight: 700;
+}
+
+legend{
+	font-family: fantasy;
+    color: #3c3e3c;
+    font-size: xx-large;
+}
+    
+/*.colr{
+    margin-top: 23px;
+    margin-bottom: 32px;
+    line-height: 2.1;
+}*/
+.post{
+    margin: 16px 30px 16px 78px;
+}
+ul{
+    list-style-type: none;
+}
